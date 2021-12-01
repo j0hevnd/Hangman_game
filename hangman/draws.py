@@ -1,4 +1,4 @@
-def draw(self, cant_lives):
+def draw(cant_lives):
     """ Game images depending on the amount of life """
     if cant_lives == 7:
         print("""
